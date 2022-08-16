@@ -1,4 +1,4 @@
-# Lernbericht1
+# Lern-Bericht1
 Rebecca Willi
 
 ##Einleitung
